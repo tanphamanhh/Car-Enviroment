@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 37fe2e1c6b8232d4bb30d46b37e3985a
+timeCreated: 1509471795
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: aleron_aleron
+    100002: column_aleron
+    100004: door_knob_default
+    100006: door_New_Material
+    100008: frame_aleron
+    100010: frontporch_New_Material_2
+    100012: glass_glass
+    100014: //RootNode
+    100016: house_house
+    100018: patio_default
+    100020: roof_roof
+    100022: siding_aleron
+    400000: aleron_aleron
+    400002: column_aleron
+    400004: door_knob_default
+    400006: door_New_Material
+    400008: frame_aleron
+    400010: frontporch_New_Material_2
+    400012: glass_glass
+    400014: //RootNode
+    400016: house_house
+    400018: patio_default
+    400020: roof_roof
+    400022: siding_aleron
+    2300000: aleron_aleron
+    2300002: column_aleron
+    2300004: door_knob_default
+    2300006: door_New_Material
+    2300008: frame_aleron
+    2300010: frontporch_New_Material_2
+    2300012: glass_glass
+    2300014: house_house
+    2300016: patio_default
+    2300018: roof_roof
+    2300020: siding_aleron
+    3300000: aleron_aleron
+    3300002: column_aleron
+    3300004: door_knob_default
+    3300006: door_New_Material
+    3300008: frame_aleron
+    3300010: frontporch_New_Material_2
+    3300012: glass_glass
+    3300014: house_house
+    3300016: patio_default
+    3300018: roof_roof
+    3300020: siding_aleron
+    4300000: aleron_aleron
+    4300002: column_aleron
+    4300004: door_knob_default
+    4300006: door_New_Material
+    4300008: frame_aleron
+    4300010: frontporch_New_Material_2
+    4300012: glass_glass
+    4300014: house_house
+    4300016: patio_default
+    4300018: roof_roof
+    4300020: siding_aleron
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: New
+    second: {fileID: 2100000, guid: 594f62c6a617d4d428b6ca9bea72f3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aleron
+    second: {fileID: 2100000, guid: 870afc215384af043bcf99b3530900ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default
+    second: {fileID: 2100000, guid: 7625f859d565bf54b978aabf3af00f48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 58327c556bf6b17438c6fc8a66d696eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: house
+    second: {fileID: 2100000, guid: ecb497485f8606d429055a8009b2fed9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof
+    second: {fileID: 2100000, guid: d3350396ec7091d459ee1d1d335ec3c4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

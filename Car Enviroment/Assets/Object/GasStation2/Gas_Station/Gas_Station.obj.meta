@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 8b40063d2ab92bb4c805edec8b5222be
+timeCreated: 1509452482
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: default
+    100002: //RootNode
+    400000: default
+    400002: //RootNode
+    2300000: default
+    3300000: default
+    4300000: default
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas1_chief
+    second: {fileID: 2100000, guid: 5cc36f9897d1b2d469fadd0db1556a1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas1_iron
+    second: {fileID: 2100000, guid: a322623874acd24419e5c0e1061a6525, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas1_logo1
+    second: {fileID: 2100000, guid: 8d8b405f78af3344189efbca12623fca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas1_logo2
+    second: {fileID: 2100000, guid: 279367ade84ff424492eb1369f25dce3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas1_number1
+    second: {fileID: 2100000, guid: 3c54767359dab654fb4e0eaa6aae8f6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas1_number2
+    second: {fileID: 2100000, guid: a94e0479aa199084b801fd58039b2e18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas1_red
+    second: {fileID: 2100000, guid: 82da40d83a597b44497a7fa1b5eabf58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas1_silver
+    second: {fileID: 2100000, guid: 23765df8483ffe940b32a8bcfd4309f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_betoni
+    second: {fileID: 2100000, guid: 3e6fc78e5bf69a14fbb35ca717845e4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_glass
+    second: {fileID: 2100000, guid: 48764b9cae8a4b8499b3f648b4d3b585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_grass
+    second: {fileID: 2100000, guid: b6872b618b7181346a4c8c412bb2396f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_ground1
+    second: {fileID: 2100000, guid: ee8312be31ef4cc45bd4c5a6c599528a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_house1
+    second: {fileID: 2100000, guid: 9244ea1f6deff4442ba0af889deaaadd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_house2
+    second: {fileID: 2100000, guid: 0b242263d6e8eab45a245878ac725d13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_house3
+    second: {fileID: 2100000, guid: 51ab36190c408254f948219eeef4960c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_kyltti
+    second: {fileID: 2100000, guid: a91bf5c6b61601f47832cc76f49eaa54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_kyltti2
+    second: {fileID: 2100000, guid: 58dd70955a059a54eb81722eec0b0a1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_letku
+    second: {fileID: 2100000, guid: fde67890200a81f4ab958584008317a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_letku2
+    second: {fileID: 2100000, guid: ed5b882ee1f33d04dbfcdbc5f77f9fc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_lower1
+    second: {fileID: 2100000, guid: 86a25c8460579884e82fe42e2543cba0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_lower2
+    second: {fileID: 2100000, guid: 1baf41082274d714c90e78059dc8ce3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_nozzle1
+    second: {fileID: 2100000, guid: 759664f8cf6da6143b2322e9f81ec8af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_nozzle2
+    second: {fileID: 2100000, guid: d593f03e15dd5664e8907dc11fcaae34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_nozzle3
+    second: {fileID: 2100000, guid: b1ac417c53fe5e6469cebd712eb8a9e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_nozzle4
+    second: {fileID: 2100000, guid: 7503fcddfc998a44a8226a90febf3661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_poster1
+    second: {fileID: 2100000, guid: 168102b5186235d4d8667de34eb52e4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_poster2
+    second: {fileID: 2100000, guid: 4880510e4bd02ba4ea08bc01316a3dc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_poster3
+    second: {fileID: 2100000, guid: 4d2ec55eb14949645a379eaf4906619b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_poster4
+    second: {fileID: 2100000, guid: c0a2b0c2190414e48b5ace28c1886a65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_poster5
+    second: {fileID: 2100000, guid: 42a8556416c294245ac70bfd554fa79d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_poster6
+    second: {fileID: 2100000, guid: 2ce8f183d104e2447a8c4189f1cf2553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_poster7
+    second: {fileID: 2100000, guid: 57e87e420e8f33043992db30ce050c6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_poster8
+    second: {fileID: 2100000, guid: a8690293ec326994797dc8d4f6a69fa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_poster9
+    second: {fileID: 2100000, guid: 58210cedf89d72f4592aeef6d0137b08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_regular1
+    second: {fileID: 2100000, guid: 695c334f7db89524cb05bf888d978c4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_regular2
+    second: {fileID: 2100000, guid: 37fbcea8ca951ee4eb959830a8418c5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_roof3
+    second: {fileID: 2100000, guid: eca76b0bcd0578744a1662243fc48331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_rooflight1
+    second: {fileID: 2100000, guid: 1b121ec1df5708542b4d83304f4963d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_rooflight2
+    second: {fileID: 2100000, guid: 6eb3b01dcc2ad8d419eb80ab21bd9df4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_rooflight3
+    second: {fileID: 2100000, guid: 6c276e48b5db5274aa6c9770f4d1c7b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_star
+    second: {fileID: 2100000, guid: 635a6e1d638373840aade135a3d99b24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_tree1
+    second: {fileID: 2100000, guid: c24e1ad2f8d8b89439114f5a87e4c527, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gposter11
+    second: {fileID: 2100000, guid: 4d4057e51b37f294fb32ec7081874e44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gposter12
+    second: {fileID: 2100000, guid: 9619d5baa341a8a49b6fea2fafb0de29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: klamppu01
+    second: {fileID: 2100000, guid: 37f3ad80701af9d4686c2359916d9aa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: klamppu02
+    second: {fileID: 2100000, guid: e3a371b1cc2e4994f8a722876b822ec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: klamppu03
+    second: {fileID: 2100000, guid: 64b41982205354a4898c08e392dfe5ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: klamppu04
+    second: {fileID: 2100000, guid: b63420e9715211446834a194ea0eb649, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pallo01
+    second: {fileID: 2100000, guid: a7ca1e20ceea8d846949f299656dc7d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pallo02
+    second: {fileID: 2100000, guid: 71f4f5677cdc3b941abea8a65fa00391, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pallo03
+    second: {fileID: 2100000, guid: 78627f8b1f6d55842b1784733e2acdcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teksti01
+    second: {fileID: 2100000, guid: 72d7635e0a784e441a15ce76eb986365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teksti02
+    second: {fileID: 2100000, guid: 795062a4e1d00f24db68080fecb5a932, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wings
+    second: {fileID: 2100000, guid: 1d27ff9a8d6e0294699d98b45e3a9078, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
